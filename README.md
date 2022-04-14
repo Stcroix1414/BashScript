@@ -9,5 +9,5 @@ mkdir ~/backups/{diskuse,freemem,freedisk,openlist}
 
 use chmod +x system.sh (to make file executable)
 
-Linux and Mac users shouldn't have a problem. Windows please use GitBash
+Linux users, this should work fine. Mac users "free" will not work but the rest of the script will. Windows please use GitBash
 
